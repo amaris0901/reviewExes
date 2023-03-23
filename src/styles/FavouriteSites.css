@@ -1,0 +1,17 @@
+.FavouriteSites section{
+    text-align: center;
+    align-items: center;
+    margin: 20px;
+}
+.FavouriteSites li{
+    list-style-type: none;
+}
+.FavouriteSites a:link{
+    color: green;
+}
+.FavouriteSites a:hover{
+    color: red;
+}
+.FavouriteSites ul{
+    padding: 0;
+}
